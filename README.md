@@ -2,7 +2,7 @@
     <img alt="Ignite" title="Ignite" src=".github/capa_ignite.png" />
 </h1>
 
-<h2 align="center"> "API RentalX </h2>
+<h2 align="center"> API RentalX </h2>
 
 </br>
 
@@ -17,11 +17,13 @@
 - [Node.js](https://nodejs.org/en/)
 - [Express.js](https://expressjs.com/pt-br/)
 - [Multer](https://www.npmjs.com/package/multer)
-- [Swagger](https://swagger.io/
+- [Swagger](https://swagger.io/)
 )
 ## 📦 Projeto
 
 Essa API tem como proposito realizar cadastro de categorias e especificações de veiculos (carros) e litar os itens criados.
+
+O projeto foi desenvolvido com base no SOLID e adicionando um arquivo Swagger que tem como objetivo criar uma documentação da API.
 
 ## 📦 Observações
 
